@@ -8,7 +8,8 @@
   "first_name",
   "last_name",
   "email",
-  "age"
+  "age",
+  "company_name"
  ],
  "fields": [
   {
@@ -30,11 +31,16 @@
    "fieldname": "age",
    "fieldtype": "Data",
    "label": "Age"
+  },
+  {
+   "fieldname": "company_name",
+   "fieldtype": "Data",
+   "label": "Company Name"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-08-26 13:01:04.668788",
+ "modified": "2024-08-26 14:45:46.690247",
  "modified_by": "Administrator",
  "module": "Classita custom",
  "name": "cla doctype",
